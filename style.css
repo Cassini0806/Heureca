@@ -89,7 +89,7 @@ input{
  .titulo{
     text-align: center;
     padding-top: 1.5%;
-    font-size: 22px;
+    font-size: 25px;
     text-decoration:underline;
  }
  
@@ -165,6 +165,12 @@ input{
 .org{
     color: var(--azulado);
     font-style: italic;
+}
+
+.end{
+    margin: 0 16px;
+    padding: 20px 20px;
+    text-align:center;
 }
 
  button{
