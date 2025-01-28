@@ -6,7 +6,7 @@ function random(){
       "Guerra-dos-Mundos",
       "Um-Estudo-em-Vermelho",
       "Vidas-Secas",
-      "pinocchio",
+      "Pinocchio",
   ]
   const title = livros[Math.floor(Math.random() * (6 - 0 + 1))] 
   console.log(title)
