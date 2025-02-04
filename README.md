@@ -2,5 +2,5 @@ Este site é um projeto pessoal criado para reunir algumas obras de domínio pú
 
 Futuras Adições
  * Obra completa M. de Assis e E. de Queiros;
- * Locke, Rousseau, Lobato, Bilac, Allan Poe;
+ * Locke, Rousseau, Lobato, Bilac, Allan Poe, Lovecraft, Verne;
  * Obras de Matematica, História e Ciências em Geral.
