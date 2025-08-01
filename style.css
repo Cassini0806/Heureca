@@ -109,21 +109,9 @@ input{
     size: 500px ;
  }
 
-.new{
-    margin-left: 150px;
-    margin-right: 150px;
-    padding: 20px 50px;
-    text-align: center;
-    justify-content: center;
-    size: 500px ;
-    font-size: 20px;
-    border: 1px solid var(--segunda-cor-do-texto);
-    border-radius: 40px;
-}
-        
-.titulo-new{
-    text-align: center;
-    padding-top: 2.5%;
+.display{
+    padding: 0 10px;
+    display:inline-block;
 }
 
 a{
