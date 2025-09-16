@@ -60,6 +60,10 @@ header{
     font-size: 30px;
 }
 
+h1{
+    font-size: 15px;
+}
+
 /*.sub-header{
 }*/
 
@@ -182,3 +186,4 @@ a{
         width: 150%;
     }
 }
+
