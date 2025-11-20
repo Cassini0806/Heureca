@@ -1,3 +1,15 @@
-Este site é um projeto pessoal criado para reunir algumas obras de domínio público, desenvolvido originalmente como um projeto escolar de programação. Seu objetivo é facilitar o acesso e distribuição de obras gratuitas em língua portuguesa, sem qualquer interesse financeiro atribuído.
+  #O QUE É ESTE REPOSITÓRIO?
+  
+  Este site/repositório é um projeto pessoal criado para reunir algumas obras de domínio público, desenvolvido originalmente como um projeto escolar de programação. Seu objetivo é facilitar o acesso e distribuição de obras gratuitas em língua portuguesa, sem qualquer interesse financeiro atribuído. 
 
-As obras presentes nesta página são de domínio público e, portanto, livres de qualquer direito autoral. Entretanto, o criador se dispõe a remover conteúdos que violem esta regra.
+  ##O QUE É DOMÍNIO PÚBLICO?
+
+  Domínio público é todo trabalho criativo que não possui direitos de propriedade intelectual aplicados, sendo assim, toda obra em domínio público é de livre circulação e reprodução e isenta de valor monetário. No Brasil, os direitos patrimoniais do autor perduram por setenta anos contados de 1° de janeiro do ano subseqüente ao de seu falecimento. 
+  
+  ##DE ONDE VEM ESSAS OBRAS?
+
+  Todas as obras foram retiradas de outros repositórios e sites também dedicados a preservação das mesmas. Meus créditos a elas.
+   (https://www.dominiopublico.gov.br/)
+   (https://machado.mec.gov.br/index.php)
+   (https://archive.org/)
+   (https://www.gutenberg.org/)
