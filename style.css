@@ -129,7 +129,8 @@ a{
     margin: 0 16px;
     padding: 20px 20px;
     justify-content: center;
-    text-align: center;
+    text-align: justify;    
+    text-justify: inter-word;
     display:flexbox;
     font-size: 25px;   
  }
